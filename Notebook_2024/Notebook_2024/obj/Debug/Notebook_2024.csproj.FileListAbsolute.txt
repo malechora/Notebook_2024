@@ -1,0 +1,20 @@
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.csprojResolveAssemblyReference.cache
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.MainForm.resources
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.csproj.GenerateResource.Cache
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\bin\Debug\Notebook_2024.exe.config
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\bin\Debug\Notebook_2024.exe
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\bin\Debug\Notebook_2024.pdb
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.exe
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.pdb
+C:\Users\migue\Documents\Practica WinForms\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.Formularios.CargaDatos.resources
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\bin\Debug\Notebook_2024.exe.config
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\bin\Debug\Notebook_2024.exe
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\bin\Debug\Notebook_2024.pdb
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.csprojResolveAssemblyReference.cache
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.Formularios.CargaDatos.resources
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.MainForm.resources
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.csproj.GenerateResource.Cache
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.exe
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\obj\Debug\Notebook_2024.pdb
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\bin\Debug\MySql.Data.dll
+C:\Users\Agustin\Desktop\Notebook_2024\Notebook_2024\Notebook_2024\bin\Debug\MySql.Data.xml
